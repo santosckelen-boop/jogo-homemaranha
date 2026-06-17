@@ -1,4 +1,3 @@
-# jogo-homemaranha[readme.md](https://github.com/user-attachments/files/29028153/readme.md)
 # Jogo 2D em Python
 
 Este projeto foi desenvolvido como atividade avaliativa da disciplina de Pensamento Computacional, pertencente ao primeiro nanodegree do curso de Ciência da Computação da Atitus Educação, com o objetivo de demonstrar o aprendizado em programação com Python. O jogo foi feito em Python, usando principalmente Pygame para a parte visual e interativa. Também usa Tkinter para entrada do nome do jogador, JSON para salvar pontuação, pyttsx3 para fala do computador e cx_Freeze para transformar o projeto em executável.
