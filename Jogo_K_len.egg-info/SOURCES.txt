@@ -1,0 +1,5 @@
+setup.py
+Jogo_K_len.egg-info/PKG-INFO
+Jogo_K_len.egg-info/SOURCES.txt
+Jogo_K_len.egg-info/dependency_links.txt
+Jogo_K_len.egg-info/top_level.txt
